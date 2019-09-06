@@ -73,7 +73,7 @@ int LeftRPM;
 
 
 
-bool white = LOW;
+bool white = LOW; // Change the variable if we need to do it 
 
 double Kp = 0.008;
 double Ki = 0;
